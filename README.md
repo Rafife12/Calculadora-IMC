@@ -72,4 +72,4 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 # ✍️ Autor
 Desenvolvido por Rafael Silva
-🔗  [Seu Linkedin][(www.linkedin.com/in/rafael-silva-a5a594268] | 🔗 [Seu GitHub](https://github.com/Rafife12)
+🔗  [Rafael Silva - Linkedin](www.linkedin.com/in/rafael-silva-a5a594268)
